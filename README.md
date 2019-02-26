@@ -1,6 +1,7 @@
 # Tesseract-OCR
 Tesseract-OCR字库训练：
 步骤1：
+
 1）打开jTessBoxEditor（我的地址是D:\Tesseract-OCR\Tesseract-OCR\jTessBoxEditorFX），选择Trainer->Tools->Merge TIFF，进入训练样本所在文件夹，选中要参与训练的样本图片
 2）点击 “打开” 后弹出保存对话框，选择保存在当前路径下，文件命名为 “ wyuan.test.exp0.tif ” ，格式只有一种 “TIFF” 可选。
 注意：tif文面命名格式[lang].[fontname].exp[num].tif
